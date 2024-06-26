@@ -737,6 +737,20 @@
             "label": "Date of update"
           }
         ]
+      },
+      {
+        "key": "io.supernova.documentation-main.compoent-health-dynamic",
+        "category": "Component Blocks",
+        "title": "Dynamic Health",
+        "description": "Test description",
+        "icon": "icons/custom-block-checklist-all.png",
+        "mode": "block",
+        "properties": [{
+          "key": "componentId",
+          "default": "",
+          "type": "string",
+          "label": "ComponentID"
+        }]
       }
     ],
     "blockVariants": {
