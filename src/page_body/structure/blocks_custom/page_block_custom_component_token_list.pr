@@ -1,0 +1,10 @@
+{[ const block = context /]}
+
+{* Render lottie file block from configuration *}
+{* {[ let url = block.properties.jsonURL /]}
+{[ let configuration = exportConfiguration() /]}
+{[ let extension = getUrlExtension(url) /]} *}
+
+<div class="content-block content-block--lottie">
+   <div>Test here</div>
+</div>
