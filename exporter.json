@@ -739,11 +739,11 @@
         ]
       },
       {
-        "key": "io.supernova.documentation-main.compoent-health-dynamic",
+        "key": "belfius.documentation-main.component-token-list",
         "category": "Component Blocks",
-        "title": "Dynamic Health",
-        "description": "Test description",
-        "icon": "icons/custom-block-checklist-all.png",
+        "title": "Component Token List",
+        "description": "Displays tokens used in a component",
+        "icon": "icons/custom-block-token-list.png",
         "mode": "block",
         "properties": [{
           "key": "componentId",
